@@ -18,7 +18,7 @@ To run any of these projects locally:
    ```bash
    git clone https://github.com/Dilen-dev/Beginner-python-projects.git
    cd Beginner-python-projects
-````
+
 
 2. **Navigate to the project directory**:
 
