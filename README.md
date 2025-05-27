@@ -82,7 +82,3 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use a
 
 For questions or suggestions, please open an issue or contact [Dilen-dev](https://github.com/Dilen-dev).
 
-```
-
-You can add this to a file named `README.md` in the root of your GitHub repository. Let me know if you want help committing it or making a pull request.
-```
